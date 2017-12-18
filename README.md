@@ -1,6 +1,6 @@
-# SmartThings Client in Go
+# SmartThings Client/Server in Go/Groovy
 
-The bones of a client that parses GET requests sent from a Groovy server residing on my SmartThings hub.
+The bones of a client and server that parses GET requests sent from a Groovy server residing on my SmartThings hub.
 
 ## Usage: Server
 
